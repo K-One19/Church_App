@@ -1,0 +1,13 @@
+{
+  "previous": "some url for next",
+  "next" : "some url for next",
+  "results": [
+    {
+      "first name " : "Evans",
+      "last name" : "Frimpong",
+      "email" : "frimpongboatengevans19@gmail.com",
+      "phone" : "0550737870",
+
+    }
+  ]
+}

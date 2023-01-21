@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>8630666350-gv6g0amll8v97h8dsv0od5bbb9q5k762.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.8630666350-gv6g0amll8v97h8dsv0od5bbb9q5k762</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDeC9q8WeZ6vx_dismnecjDdH0WO7NFNK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>8630666350</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newChurchApp</string>
+	<key>PROJECT_ID</key>
+	<string>churchapp-98001</string>
+	<key>STORAGE_BUCKET</key>
+	<string>churchapp-98001.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:8630666350:ios:992ab922e8163efa1c127f</string>
+	<key>DATABASE_URL</key>
+	<string>https://churchapp-98001-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
